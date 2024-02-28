@@ -1,0 +1,200 @@
+[
+    {
+        "company": " NFL",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "NFL The National Football League (NFL) is a professional American football league consisting of 32 teams, divided equally between the National Football Conference (NFC) and the American Football Conference (AFC). How Machine Learning and Analytics are transforming the NFL \"Amazon QuickSight will allow us to quickly build fast, interactive dashboards that will seamlessly integrate with our Next Gen Stats applications. With the Amazon QuickSight Readers and pay-per-session pricing, we are able to extend these secure, customized and easy to use dashboards for each Club without having to provision servers or manage infrastructure – all while only paying for actual usage. We love the direction, and look forward to expanding use of Amazon QuickSight.\" Matt Swensson - VP Emerging Products, NFL"
+    },
+    {
+        "company": " Rio Tinto",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Rio Tinto Rio Tinto is one of the world’s largest metals and mining corporations. Operating in six continents, the company is one of the world's leading producers of commodities like aluminum, iron ore, copper, uranium, coal, and diamonds. \"Amazon QuickSight allows our analysts to create insightful dashboards quickly for our critical risk management programme. Enabling us to move from static spreadsheets to interactive data. However, rolling out these dashboards at scale to the field was going to be costly and complicated. We asked AWS for a better solution, and they listened. Readers in QuickSight, with usage-based pricing, will help us scale the dashboards to more end-users across the world and only pay for what we use” Anthony Deakin - Chief Advisor, Critical Risk Management, Rio Tinto"
+    },
+    {
+        "company": " Siemens",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Siemens Siemens is a global powerhouse focusing on electrification, automation, and digitalization. The company is also a leading supplier of power generation and transmission systems. \"The QuickSight pay-per-session dashboard access is perfect as it allows secure, fast and cost-effective access to interactive data. As a cloud-based solution, QuickSight automatically scales to our needs. The combination of being able to connect to data from a private Virtual Private Cloud (VPC) through PrivateLink, authenticate users via SAML, easily author dashboards with drill downs and rich visuals, and allow read-only access to a large audience --without any infrastructure management, and with usage-based pricing--makes it the obvious choice.\" Massimilliano Ponticelli - Product Manager, Siemens"
+    },
+    {
+        "company": " Volvo",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Volvo Based in Sweden, the Volvo Group is one of the world’s leading manufacturers of trucks, buses, construction equipment and marine and industrial engines. \"As we accelerate our AWS adoption journey, timely visibility to cost and usage information has become critical to cost awareness among our development teams. Amazon QuickSight's native integration with Amazon Athena makes it the ideal serverless analytics solution. With QuickSight pay-per-session pricing, we can easily extend access to interactive dashboards across our teams and only pay for what we use. The move from static email reports and ad-hoc analysis to always-available data in QuickSight has been great.\" Anders Rahm-Nilzon- Cloud Manager, Volvo Group Connected Solutions"
+    },
+    {
+        "company": " Autotrader",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Autotrader Autotrader is the largest digital automotive marketplace in the UK and Ireland. Through their digital platforms and innovative data products, Autotrader makes the process of buying and selling cars easier for consumers, retailers and manufacturers. \"With the new pay-per-session pricing for dashboard access, we can extend interactive dashboards with a focused consumption experience to the entire team, with the assurance that we only pay when we use the product. The serverless nature of Amazon QuickSight aligns with our vision for the data platform, with no infrastructure management needed to scale across the company! We look forward to enabling more use cases in Amazon QuickSight.\" Jim Stamp - Head of Product & Data Engineering, Autotrader"
+    },
+    {
+        "company": " MLB Advanced Media",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "MLB Advanced Media MLB Advanced Media (MLBAM) is a full-service solutions provider delivering world-class digital experiences and content.The company operates the official web site for Major League Baseball (MLB) and thirty MLB club web sites via MLB.com, which draws four million hits per day. \"QuickSight provides us with a real-time, 360-degree view of our business without being constrained by pre-built dashboard and metrics, expanding our use of data to make informed decisions.\" Brandon Sangiovani - MLBAM"
+    },
+    {
+        "company": " SOOMLA",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "SOOMLA SOOMLA is able to quickly respond to customer feedback and make product innovations on a weekly basis using Amazon QuickSight. SOOMLA provides app marketers, monetization managers and product teams with unique in-app advertising insights. They were looking for a way to display data to customers of their AdIntel product. Amazon QuickSight visuals are embedded within AdIntel, giving customers a user-friendly interface to analyze ad data collected from mobile gaming apps. By using Amazon Athena and Amazon QuickSight, they eliminate the need to manage servers or infrastructure in order to scale to new levels of data and user volumes. \"We needed a solution for displaying our data to customers that could be embedded into our products, and we needed it quickly. With QuickSight we were able to get the first version of our product developed within two weeks. Our development team is able to iterate extremely quickly and focus the efforts on functionality rather than managing servers. The UI is intuitive and embedding the QuickSight dashboard into our solution was easy. We estimate it would have taken three to six months if we had used another technology. We can now achieve 10x faster application development and respond to customers' needs by releasing new features every week. Lastly, native integration with our S3 data lake using Athena and pay-as-you-go pricing made QuickSight an easy choice.\" Yaniv Nizan – CEO, SOOMLA"
+    },
+    {
+        "company": " Davinci",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Davinci Costs reduction and decrease in staffing are some of the reasons why our customers search for our IT solutions in the form of SaaS (Software as a Service). The cloud-infrastructure enables us to deliver our services in the most secure and scalable way and with the highest availability level (24/7). Davinci is an Advanced Amazon Technology Partner. We make use of Amazon Web Services (AWS) for hosting our software services. Davinci is an international software development and IT consultancy company. Already for more than 29 years, we innovate the financial services market via automation of consumer loans and mortgage processes. We enable lending with the use of new technologies. Committed to results, we are always prepared to go the extra mile to satisfy our clients with pragmatic and forward-looking solutions. A lot of attention is paid to cloud-based solutions in relation to data protection. Besides the standard provisions (technical and legal) provided by Amazon to ensure data protection, additional contractual arrangements have been made with Amazon to protect the data that is processed by our services. “Davinci offers a range of applications to make lending easier for our customers. The next challenge for Davinci is to offer fast actionable insights about the data in these applications. Quicksight helps us to develop dashboards at lightning speed. Just yesterday one of our clients mentioned after a demo of a new dashboard (live, on his production data), seeing the data presented like that, made him as happy as a child. I’ve never been able to achieve this level of customer satisfaction with other BI-tools!” Dennis Houtman - Business Analyst, Davinci"
+    },
+    {
+        "company": " Green Flag",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Green Flag “QuickSight continuously proves to be an effective and efficient solution that allows us to provide detailed analytics and simple visualisations to both technical and non-technical users across our business, delivering on our 'self-serve' strategy of putting data and insight in the hands of everyone, not just analysts or data scientists. We love the simplicity of building its dashboards and that there are multiple ways to publish our insights, either via the QuickSight console, by email or embedded within user apps. This allows actionable insight to be available at the fingers tips of those who need it most, our brilliant people, who are the ones driving our business forward.” Jeremy Bristow – Head of Product Management, Green Flag."
+    },
+    {
+        "company": " Sound of Data",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Sound of Data “We have found a BI tool which integrates seamlessly into our IT landscape. It is accessible for any use case, allows interaction while sustaining performance and surprises our users with new insights. Amazon QuickSight has become our default tool for visualizing data sets, regardless their size or audience. We can now develop new dashboards without the necessity of development effort. The close collaboration with the QuickSight team has proven to be effective and inspiring. Our main concern in analytics is now to keep up with all the new features being developed and released!” Gerard Nijboer – Product Manager, Sound of Data"
+    },
+    {
+        "company": " Princeton TMX",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Princeton TMX “For a considerable amount of time we have been looking for a BI tool that matched the intuitive user experience we created in our product. Prior to finding QuickSight, every tool we reviewed required the user to be a data analyst. But with QuickSight, we found an embeddable, easy to use tool that required no special training for its users. We have embedded QuickSight directly into our product and are beginning to roll it out to our customers. They access it by simply going to our Reporting module. The first time a user does this their QuickSight user is automatically created. Our customers are free to grant access to as many of their users as they choose. Our current user base is around 6,100 users and growing. The feedback we have received so far has been outstanding. Our customers are extremely happy with reporting solution provided to them by combining Amazon QuickSight with Princeton TMX’s Transportation Management System (TMS). We believe that QuickSight will be a vital tool for our users and plan to continue investing in it. Our future plans include utilizing QuickSight’s embedded authorship when it’s released, allowing our customers to start creating their own reports.“ Tim Minnich - CEO, Princeton TMX"
+    },
+    {
+        "company": " SSP ",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "SSP “We wanted a tool that we could cost effectively embed within the solutions that we deliver to our customers, globally. Working in a financial services industry, the access to data and the actionable insights that it brings is key to any business. QuickSight allows SSP to surface the data within a customers solution to enable them to make better data driven decisions, create better businesses and support their own customers as effectively as possible. Having worked with QuickSight for a number of years we can really see and benefit from the investment that is being made in the product, and how we are able to leverage that investment with our own customers.” Kevin Gaut – CTO, SSO"
+    },
+    {
+        "company": " Köbu",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Köbu \"Köbu is a company dedicated to data management and business intelligence. We take care of transforming information into knowledge, in order to help our end users make more optimal decisions. QuickSight has been a key solution for us. It has great flexibility and it is really user friendly. It has allowed us to give our clients a better understanding of their information, custom dashboards with the necessary indicators, accessible reports for each user group and the best thing is that it is generated in a time record.\" Adriana Quintanilla – IT Manager, Köbu"
+    },
+    {
+        "company": " Liberty Latin America",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Liberty Latin America \"In addition to the financial aspect, which freed us from long licensing agreements, Quicksight allows us to develop and launch interactive dashboards, integrated with our corporate datalake, enabling us to make data-driven decisions. This service also allows us to share data and achieve the agility requested by the business.\" Mauricio Zavala - Business Intelligence Senior Manager, Liberty Latin America"
+    },
+    {
+        "company": " TrueFire Studios ",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "TrueFire Studios TrueFire Studios is the largest and most comprehensive global destination for online music learning. Its family of brands includes TrueFire, JamPlay, and FaderPro, featuring the highest quality artists and instructors across all major instruments and genres for students. \"QuickSight enables us to have consistent, repeatable, and updated insights to make clear decisions about our business at a moment's notice. The options to customize visualizations to our needs, easily share with users, and affordability made it the clear choice for the BI efforts of TrueFire Studios.\" Eliott Large - Manager of Reporting & Analysis, TrueFire Studios"
+    },
+    {
+        "company": " Accelo",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Accelo Accelo is the leading platform for managing client work, from quote to cash, for professional service businesses. By streamlining all operations in one system, Accelo gives you insight into the overall health of your company in real-time, automates the mundane aspects of the business and lets you and your team focus on doing the work you love while doubling your profitability. \"QuickSight enables us to provide businesses real-time insights into their operations so they can become truly data driven, effortlessly. As a part of AWS, we were able to get QuickSight up and running quickly and connect it with our clients' real-time data in a secure, scalable and cost effective way. The integrity of our users' data is maintained in a multi-tenant environment thanks to the built-in row-level security, and with reports seamlessly embedded in Accelo, we're able to offer vital, out-of-the-box reports to deliver immediate, real-time insights to our clients. Like everything we do, Quicksight allows Accelo to give the heroes running small businesses true superpowers so they can focus on doing great work for the clients, but now with confidence.\" Geoff McQueen - Founder and CEO, Accelo"
+    },
+    {
+        "company": " Jobcluster",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Jobcluster Jobcluster is a leading recruiting software provider in the DACH region. Jobcluster provides their customers with the necessary know-how and suitable cloud tools to standardize and automate recruitment processes. In addition to the multiposting tool \"One-Click-Recruiter\", Jobcluster offers the \"Jobrecommender\", an innovative employee recommendation system. \"According to internal estimates, setting up a self-hosted analytics infrastructure would have taken about 4 months. With AWS Managed Services, the implementation was completed in 3 weeks. The Data Lake in combination with QuickSight and other AWS Analytics Services opens up new opportunities for Jobcluster in the area of data-driven product innovation.\" David Baumann - Project Manager Data Analytics & AWS, Jobcluster Deutschland GmbH"
+    },
+    {
+        "company": " Ecotrak",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Ecotrak Ecotrak is a top-rated software designed to revolutionize facilities and asset management for multi-site locations. The cloud-based platform is increasing efficiency, reducing repair and maintenance costs and helping businesses grow and scale quickly. \"Our overall experience with QuickSight has been nothing less than amazing. QuickSight offers an easy-to-use business intelligence platform, allowing Ecotrak’s customers to visualize large amounts of data in a modern, clean and consumable format. Fast, powerful and intuitive, QuickSight delivers clarity at scale and aligns with our mission to empower people with actionable data to make better business decisions.\" Matt Singer – CEO, Ecotrak Facility Management Software"
+    },
+    {
+        "company": " Classworks",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Classworks Classworks is a best-in-class, cloud-based assessment and instruction platform that leverages technology and evidence-based learning practices to help school districts transform Response to Intervention and Multi-Tiered System of Supports. Millions of students use Classworks to accelerate their path to grade-level proficiency. “To make effective instructional decisions that will impact student growth, school districts need easy-to-analyze data visualizations that provide insights by school, district, demographic, and sub-population groups. Amazon QuickSight allows us to deliver a powerful and scalable interactive system that can be easily accessed by school districts within Classworks. As a result, school and district leaders are empowered to make data-driven decisions about their intervention and special education processes. Plus, we’re able to quickly customize dashboards based on the needs of our customers without having to dedicate valuable development time and resources. The Classworks team is excited to continue evolving our use of QuickSight to support educators.” Jennifer Treichler - VP of Marketing, Classworks"
+    },
+    {
+        "company": " Lucerna Health",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Lucerna Health Lucerna Health is a healthcare data technology company helping payers and providers grow and perform in value-based care. We deliver powerful big data and integrated analytics capabilities through out HITRUST CSF® certified Healthcare Data Platform product, which integrates payer data, electronic medical records, digital touchpoints, and other critical data sources to generate a real-time Healthcare Consumer and Provider 360 view and actionable insights. “We fully integrated QuickSight into our Healthcare Data Platform product to support advanced analytics and reporting at unlimited scale for our customers. Our comprehensive Data Platform product runs on AWS infrastructure and Quicksight’s deep security and services integration, ML capabilities, and ease of integration to our proprietary data model has truly accelerated our analytics product development. Ultimately, QuickSight enables us to provide a seamless embedded analytics experience at a fraction of the total cost of ownership of other BI platforms.“ David Atkins - Co-Founder and Chief Product Officer, Lucerna Health"
+    },
+    {
+        "company": " Glia",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Glia \"Glia is reinventing how businesses support their customers in a digital world through its Digital Customer Service (DCS) platform that enriches web and mobile experiences with digital communication choices, OnScreen collaboration, and AI-enabled assistance. Glia's solution offers Glia Insights—an embedded business intelligence tool powered by Amazon Quicksight—to provide powerful dashboards and data visualization capabilities that drive contact center efficiency. QuickSight enables Glia Insights to provide clients with an easy and flexible tool to leverage the data that is collected on the Glia platform, measure performance, and recognize optimization opportunities.\" Justin DiPietro - Cofounder and COO, Glia"
+    },
+    {
+        "company": " ConexED",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "ConexED \" ConexED is a unified student services platform that fosters connection and student success. Prior to implementing Amazon QuickSight, ConexED's development team spent more than half their time writing custom reports for the constantly increasing breadth of data that our system generates. Since implementing QuickSight, ConexED's development team is able focus all its energies on building competitive features and accelerating our rollout cadence. We are now unbound by the amount of data we collect and our customers have been extremely impressed with our QuickSight Dashboards. ConexEd is now able to move quickly on two fronts: building interesting features that ingest data and providing insightful visualizations and reports on the gathered data .\" Michael Gorham - CTO and Founder, ConexED"
+    },
+    {
+        "company": " Industrial Training Services",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Industrial Training Services \"As a testing and certification provider to natural gas companies throughout the country, we rely on data analytics for compliance, auditing, and operational metrics and to empower our teams to make data-driven business decisions. QuickSight was an easy choice with many powerful, built-in, and customizable visuals coupled with machine learning capabilities. And with the pay-per-use pricing, we can easily share these reports with our broader organization.\" Angelo Muñoz - Product Solution Architect, Industrial Training Services"
+    },
+    {
+        "company": " Orange Tree Employment Screening",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Orange Tree Employment Screening Orange Tree Employment Screening is a leading provider of technology-based background screening solutions, offering comprehensive services to employers across all industries for over two decades. \"QuickSight uniquely provides a singular solution for both our internal business intelligence needs and for providing rich visual insights to our clients via our custom web portal - we can leverage one library of data sources and fundamentals across the visuals tailored to the respective audiences. And since QuickSight covers both self-serve web portal and report subscription use cases, we can consolidate our technologies and tools even further, streamlining our entire data analytics operation.\" Ryan Melville - Vice President of Technology, Orange Tree Employment Screening"
+    },
+    {
+        "company": " Arcadia",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Arcadia Arcadia is dedicated to making a difference with healthcare data. We transform data from disparate sources into targeted insights, putting them in the decision-making workflow to improve lives and outcomes. In doing so, we have created the data supply chain for enterprise-wide, evidence-based healthcare management. Through our partnerships with the nation’s leading health systems, payers, and life sciences companies, we are growing a community of innovation to provide better care, maximize future value, and evolve together to meet emerging challenges and opportunities. For more information, visit arcadia.io . \"Arcadia reached a state where our ability to create new analytics outpaced our ability to deliver those insights in a visual and interactive way. We needed a way to create and share a vast library of healthcare analytic content, but more importantly, create a platform for our users to, well, create. QuickSight provided the scalable backbone for an analytics experience that was seamlessly embedded in our existing web application ecosystem. Furthermore, we achieved just what we wanted – developing and deploying content faster. QuickSight brings a modern approach to BI technology, and we are excited to continue this partnership together.\" Dan Uyttebroek - Senior Director of Product, Analytics, Arcadia"
+    },
+    {
+        "company": " Traeger",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Traeger At Traeger, our mission is to bring people together to create a more flavorful world. Since our humble start in Oregon in the 1990's, Traeger Wood Pellet Grills have been the outdoor cooking choice of food enthusiasts. For years, the grills were offered in limited quantities and geographic areas. However, as people began to taste the food cooked on a Traeger, word spread about the unique flavors only Traeger natural wood pellets can provide “The Traeger operations team strives to deliver a best-in-class experience for our customers and network of supply chain partners. Our 700+ person team uses Amazon QuickSight to deliver fast, accurate information and solutions to our customers and partners. QuickSight helps us analyze, visualize, and forecast on key data sets, from distribution center forecasts to reporting Amazon Connect call center metrics. We realized a 90% cost-reduction with QuickSight’s flexible licensing structure, and its seamless interoperability with a variety of data sources enable the team to make better decisions and deliver on our mission.\" Lizzy Mitchell - Head of Operations Analytics, Traeger"
+    },
+    {
+        "company": " Defontana",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Defontana Defontana is a leading cloud ERP, fully hosted on AWS, with more than twenty years of experience supporting thousands of companies in different countries of South America. “With Amazon QuickSight, we could easily embed dashboards in our platform so that our customers could use BI analysis directly, extracting data in real time from our ERP, without having to worry about provisioning and scaling our reporting tools. QuickSight easily integrates to other AWS services our company uses, allowing us to focus on our customers’ needs and the fast development of our reports” Guillermo Puelles - Tech Integrations Leader, Defontana"
+    },
+    {
+        "company": " SOFTBRAIN Co., Ltd",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "SOFTBRAIN Co., Ltd Softbrain Co., Ltd., with the mission of \"maximizing customer productivity,\" develops and provides e-Sales Manager, a CRM/SFA service that applies to a wide variety of industries. \"By incorporating Amazon QuickSight into our services, it offers not only budget and performance management, but also easy data analysis capabilities which can be performed by our customers with varying skillsets, contributing to their operational efficiency. Amazon QuickSight is constantly evolving, and since we can provide it directly to our customers, we believe that it contributes to the maximization of their productivity.\" Kenta Oda, CTO, SOFTBRAIN Co., Ltd."
+    },
+    {
+        "company": " Leverages",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Leverages Leverages offers a job search platform called Levtech Platform that encompasses from job search to contract management specialized for engineers and creators. “By embedding Amazon QuickSight dashboard, we are leveraging the data of over 200 thousand IT engineers on the platform to provide actionable insight for customers. An ability to allow dashboard access with no login and user management using anonymous embedding was a key differentiator. We are also collecting activity log from the dashboard to improve sales and marketing activities. QuickSight is now an indispensable part of our business.” Tomotaka Inoue, Data Analyst, Leverages Co., Ltd."
+    },
+    {
+        "company": " NTT DOCOMO",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "NTT DOCOMO NTT DOCOMO, Japan's leading telecommunications company, provides innovative, convenient and secure mobile services that enable customers to realize smarter lives. \"On a daily basis, we analyze terabytes of nationwide network data to maintain a stable network operation while improving the communication quality. Amazon QuickSight enables us to perform complex and multifaceted analyses, in a way that has never been achieved before, on large-scale data in a wide variety of formats that is updated daily. Furthermore, NTT DOCOMO builds trust and transparency among network engineers by sharing knowledge on the underlying analyses including types of data and calculations through dashboards and directly exchanging information through the network engineers user community. With Amazon QuickSight, it is now possible to share analyses and insights on a company-wide scale which until now has been limited to individual network engineers or separate departments, leading to better decisions and improved business outcomes.\" Kazunori Sasaki, Senior Manager of Radio Access Network Engineering Dept., NTT DOCOMO"
+    },
+    {
+        "company": " Advito",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Advito Advito is transforming corporate travel programs. With a powerful, intelligence-driven framework that dynamically manages supplier spend and traveler behavior, travel programs can continuously run in balance and at peak performance, keeping the needs of all stakeholders met. With smart analytics, unique supplier strategies and integrated traveler engagement, Advito will elevate your program to reach new levels of sustainability, savings, and satisfaction. “We chose QuickSight as our data visualization tool for both internal and external customer-facing analytics after a thorough comparison of the tools available in the market. To us, it was the best choice in terms of competitiveness, integration with our existing AWS platform, and the potential of the tool. After 2 years of building QuickSight dashboards, we have benefited most from the user-friendly design interface, seamless embedding of dashboards in our applications, constant innovation, and the close collaboration between Advito and QuickSight teams. We love that the anonymous embedding allows us to manage a single pool of application and dashboard users, while managing their permissions efficiently and scaling storage according to real usage.” Olivier Benoit – Principal and Vice President, Global Practices & Sales, Advito"
+    },
+    {
+        "company": " Other customers using Amazon QuickSight",
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Other customers using Amazon QuickSight"
+    },
+    {
+        "company": null,
+        "utl": "https://aws.amazon.com/quicksight/customers/",
+        "title": "",
+        "content": "Check out the product features Learn more about Amazon QuickSight. Learn more Get started in the console Start building with Amazon QuickSight. Sign in Join the QuickSight Community Ask, answer, and learn with others in the QuickSight Community. Join now"
+    }
+]
