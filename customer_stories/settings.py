@@ -9,6 +9,21 @@
 
 BOT_NAME = "customer_stories"
 
+from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
+import random
+
+class RotateUserAgentMiddleware(UserAgentMiddleware):
+    def __init__(self, user_agent=''):
+        super().__init__(user_agent)
+        self.user_agents = [
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36',
+            # Add more user agents here
+        ]
+
+    def process_request(self, request, spider):
+        request.headers.setdefault(b'User-Agent', random.choice(self.user_agents))
+
+
 SPIDER_MODULES = ["customer_stories.spiders"]
 NEWSPIDER_MODULE = "customer_stories.spiders"
 
@@ -20,18 +35,13 @@ SPLASH_URL = 'http://localhost:8050'
 #     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810,
 # }
 
-# SPIDER_MIDDLEWARES = {
-#     'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
-# }
-
-DOWNLOADER_MIDDLEWARES = {
-    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
-    'random_useragent.RandomUserAgentMiddleware': 400
+SPIDER_MIDDLEWARES = {
+    'scrapy_splash.SplashDeduplicateArgsMiddleware': 100,
 }
 
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 
-USER_AGENT_LIST = "/home/ashkan/uCode/customer_stories/customer_stories/useragents.txt"
+# USER_AGENT_LIST = "/home/ashkan/uCode/customer_stories/customer_stories/useragents.txt"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "customer_stories (+http://www.yourdomain.com)"

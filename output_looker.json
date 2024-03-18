@@ -1,0 +1,4 @@
+while not splash:select('.cloud-card__footer a') do
+            splash:wait(0.1)
+            print('waiting...')
+end
