@@ -24,7 +24,8 @@ class LookerSpider(scrapy.Spider):
                             headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'})
 
     def parse(self, response):
-        links = response.css('div.cloud-card__footer a::attr(href)').getall()
+        links = response.css('#cloud-site > div > section:nth-child(7) > div > cloudx-gallery > div.cloud-card__container.cloud-card__container--3up > div:nth-child(2) > div.cloud-card__footer > a::attr(href)').getall()
+        # links = response.css('div.cloud-card__footer a::attr(href)').getall()
         print('@@@@@@@@@@@@')
         print(links)
     #     for link in links:
